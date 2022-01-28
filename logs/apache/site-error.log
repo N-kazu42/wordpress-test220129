@@ -1,0 +1,1 @@
+[Fri Jan 28 09:54:05.963401 2022] [fcgid:warn] [pid 5772:tid 1332] [client 127.0.0.1:54919] mod_fcgid: HTTP request length 135092 (so far) exceeds MaxRequestLen (131072), referer: http://mysite2.local/wp-admin/post.php?post=19&action=edit
